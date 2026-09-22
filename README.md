@@ -22,9 +22,16 @@
   <img src="https://img.shields.io/badge/Student_Mentees-5-2AB7CA?style=flat-square" alt="5 student mentees">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Additional_Working_Papers-3-0E7490?style=flat-square" alt="3 additional working papers">
+  <img src="https://img.shields.io/badge/Invention_Patent_Application-1-0284C7?style=flat-square" alt="1 invention patent application">
+  <img src="https://img.shields.io/badge/Venture_Products-3-0891B2?style=flat-square" alt="3 venture products">
+  <img src="https://img.shields.io/badge/Textbook_Draft-1-06B6D4?style=flat-square" alt="1 textbook draft">
+</p>
+
 ## 👋 About Me · 关于我
 
-我是**黄坤**，武汉大学财政学博士生，预计 2026 年 12 月毕业。我的研究以公共经济学和发展经济学为主线，关注税收征管、企业行为与公共政策评估，并尝试把大语言模型、AI 智能体、实验经济学和计算方法转化为可复现的经济学研究工具。
+我是**黄坤**，武汉大学财政学博士生，预计 2026 年 12 月毕业。我的研究以公共经济学和发展经济学为主线，关注税收征管、企业行为与公共政策评估，并尝试把大语言模型、AI 智能体、实验经济学和计算方法转化为可复现的经济学研究工具、教学产品与科研基础设施。
 
 | 研究身份 | 当前信息 |
 |---|---|
@@ -43,7 +50,11 @@
 | 已录用待刊 | **1** | 城市轨道交通与中老年健康 |
 | 返修论文 | **6** | 《经济研究》《金融研究》及 SSCI 期刊 |
 | 外审或编辑处理中 | **8** | AI、绿色财政、企业创新与税收征管 |
+| 其他工作论文 | **3** | SSRN、arXiv 与 AAMAS 研究论文 |
 | 课题与基金经历 | **8** | 国自科、国社科、教育部、省级及横向课题 |
+| 发明专利申请 | **1** | 税费计算验证方法及系统 |
+| 创业产品 | **3** | 浏览器插件、税收模拟游戏与鸿蒙应用 |
+| 教材送审稿 | **1** | 公共经济学理论、证据与中国政策实验 |
 | 指导学生 | **5** | 学生去向包括北大、清华、人大、上财等 |
 
 ## 🎯 Current Research · 当前研究
@@ -86,7 +97,7 @@
 | 开源项目 | 技术栈 | 用途 | 仓库状态 |
 |---|---|---|---|
 | 🎴 [税案异闻录：阴阳账](https://github.com/beibeihk/tax-case-chronicles) | JavaScript / 微信小程序 | 税收遵从、政企博弈与人类被试实验的数据采集工具 | ![Stars](https://img.shields.io/github/stars/beibeihk/tax-case-chronicles?style=flat-square&color=168AAD) |
-| 🎮 [金税国缘](https://github.com/beibeihk/jinshui-guoyuan) | Godot 4 / GDScript | 行为经济学视角的逃税模拟游戏 | ![Stars](https://img.shields.io/github/stars/beibeihk/jinshui-guoyuan?style=flat-square&color=168AAD) |
+| 🎮 [金税果园](https://github.com/beibeihk/jinshui-guoyuan) | Godot 4 / GDScript | 果园经营、税务申报与概率稽查的税收经营模拟游戏 | ![Stars](https://img.shields.io/github/stars/beibeihk/jinshui-guoyuan?style=flat-square&color=168AAD) |
 | 🧮 [Optimal Corporate Tax China](https://github.com/beibeihk/optimal-corporate-tax-china) | Julia | 含避税行为的中国最优公司税研究与 ARA 协议实现 | ![Stars](https://img.shields.io/github/stars/beibeihk/optimal-corporate-tax-china?style=flat-square&color=168AAD) |
 | 🔍 [CNKI Journal Filter](https://github.com/beibeihk/cnki-journal-filter) | JavaScript | 按期刊等级筛选知网检索结果的浏览器扩展 | ![Stars](https://img.shields.io/github/stars/beibeihk/cnki-journal-filter?style=flat-square&color=168AAD) |
 | ⚖️ [Jufa Law Crawler](https://github.com/beibeihk/jufa-law-crawler) | Python | 法规批量采集、清洗与 Excel 导出 | ![Stars](https://img.shields.io/github/stars/beibeihk/jufa-law-crawler?style=flat-square&color=168AAD) |
@@ -157,6 +168,14 @@
 
 </details>
 
+## 🧩 Additional Working Papers · 其他工作论文
+
+| 平台 / 阶段 | 工作论文 | 作者角色 | 内容与状态 |
+|---|---|---|---|
+| SSRN | [**Legislative oversight in the digital age: Online budget supervision reform and state-owned enterprise innovation in China**](https://ssrn.com/abstract=6527221) | 与刘粲然合作 | 2026 年 4 月发布；SSRN 6527221 |
+| arXiv | [**Wasserstein Stability and Free Boundaries in Measure-Parameterized Bilevel Obstacle Problems**](https://arxiv.org/abs/2609.08454) | **独作** | 2026 年 9 月 8 日发布于 math.OC；研究测度参数双层障碍问题的稳定性，并给出公司税阈值应用 |
+| AAMAS 2027 | **When Audit Scores Enter the Payoff: A Trace-Backed Diagnostic of Language-Model Choice Boundaries** | **独作** | 已投稿 Research Paper Track（Submission ID 112）；研究算法风险评分如何经由稽查概率影响智能体合规激励 |
+
 ## 📑 Projects & Grants · 课题与基金
 
 | 项目 | 角色与贡献 |
@@ -169,6 +188,12 @@
 | 国家自然科学基金面上项目（72473108） | 文献综述、前期成果、技术路线及多轮校订 |
 | 湖北省政府专项债券课题合作研究项目 | 制度梳理、地方案例搜集和子课题设计 |
 | 校级课题 2 项 | **主持人**；独立完成选题、研究设计、申请书、经费预算和系统填报 |
+
+## 💡 Invention Patent · 发明专利申请
+
+| 专利名称 | 发明人 / 申请人 | 申请信息 | 核心内容 |
+|---|---|---|---|
+| **一种基于模余状态压缩的税费计算验证方法及系统** | **黄坤，唯一发明人及个人申请人** | 发明专利；申请号 **2026113921680** | 针对定点金额运算、计算顺序与舍入规则引起的税费结果差异，将模余信息、舍入行为和计算阶段编码为有限状态，压缩交易组合空间，并对不同计算路径进行一致性检查 |
 
 <details>
 <summary><strong>🎤 学术会议与报告</strong></summary>
@@ -185,6 +210,16 @@
 
 </details>
 
+## 🚀 Venture Building · 创业经历
+
+创办一人 AI 公司 **武汉市米火智研科学技术信息研究有限责任公司**，围绕科研信息检索、公共经济学教学和科研日常管理开发数字产品；独立推进需求定义、程序实现、发布材料准备与应用平台上架。
+
+| 产品 | 技术与形态 | 功能与进展 |
+|---|---|---|
+| 🔍 [**CNKI Journal Filter**](https://github.com/beibeihk/cnki-journal-filter) | Microsoft Edge / Google Chrome 浏览器插件 | 面向经济学与管理学文献筛选的知网检索辅助工具；已上架 Microsoft Edge 扩展商店 |
+| 🎮 [**金税果园**](https://github.com/beibeihk/jinshui-guoyuan) | Godot；Windows / Web | 以果园经营、税务申报和概率稽查为核心的策略游戏；已发布于 itch.io，将纳税遵从与稽查博弈转化为教学场景 |
+| 📅 **学术黄历** | HarmonyOS；ArkTS / ArkUI | 面向科研人员的离线日签与工作台；2026 年 9 月上架华为应用市场，提供科研宜忌、学术签、计划管理、专注计时和七日回顾，并已开发按学科门类生成专属内容的后续版本 |
+
 ## 🏛️ Service, Teaching & Mentoring · 服务、教学与指导
 
 | 模块 | 代表性经历 |
@@ -197,6 +232,12 @@
 | 课堂教学 | 武汉大学《公共经济学》《中级计量经济学》本科生助教；录制 Julia 计量经济学公开课 |
 | 指导学生 | 指导 5 名学生开展公共经济、税收与 AI 研究；获多项国家级论文竞赛奖并入选重要学术会议 |
 | 可开设课程 | 财政学、Python 经济数据分析、高级公共经济学、政策评估与因果推断、AI 智能体在经济学中的应用、实验经济学与科研自动化 |
+
+## 📘 Textbook Development · 教材编写
+
+| 教材 | 当前阶段 | 内容设计 |
+|---|---|---|
+| **《公共经济学：理论、证据与中国政策实验》** | 独立编写送审稿 | 将中国财税改革与企业行为研究嵌入标准公共经济学框架；附录提供数据与代码使用、实验教学安排、政策文本大语言模型分析流程，并设计 32 学时与 48 学时授课方案 |
 
 ## 🏅 Awards & Credentials · 奖项与证书
 
@@ -224,7 +265,7 @@
   <a href="mailto:huangkun123huang@163.com">Email</a> ·
   <a href="https://beibeihk.github.io/myblog/resume/">Academic CV</a> ·
   <a href="https://beibeihk.github.io/myblog/">Research Blog</a><br>
-  <sub>Last updated: 2026-09-05</sub>
+  <sub>Last updated: 2026-09-23</sub>
 </p>
 
 <p align="center">
