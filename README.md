@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://beibeihk.github.io/myblog/resume/"><img src="https://img.shields.io/badge/Academic_CV-Read_online-1677B8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Academic CV"></a>
-  <a href="https://beibeihk.github.io/myblog/"><img src="https://img.shields.io/badge/Research_Blog-Visit-155E87?style=for-the-badge&logo=hexo&logoColor=white" alt="Research Blog"></a>
+  <a href="https://beibeihk.github.io/myblog/"><img src="https://img.shields.io/badge/Personal_Blog-Read-155E87?style=for-the-badge&logo=hexo&logoColor=white" alt="Personal Blog"></a>
   <a href="mailto:huangkun123huang@163.com"><img src="https://img.shields.io/badge/Email-Contact-2AB7CA?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
   <img src="https://vbr.nathanchung.dev/badge?page_id=beibeihk.beibeihk&color=168aad" alt="Profile visitors">
 </p>
@@ -32,6 +32,10 @@
 ## 👋 About Me · 关于我
 
 我是**黄坤**，武汉大学财政学博士生，预计 2026 年 12 月毕业。我的研究以公共经济学和发展经济学为主线，关注税收征管、企业行为与公共政策评估，并尝试把大语言模型、AI 智能体、实验经济学和计算方法转化为可复现的经济学研究工具、教学产品与科研基础设施。
+
+我的[个人博客](https://beibeihk.github.io/myblog/)也写研究之外的阅读与生活；[文章](https://beibeihk.github.io/myblog/archives/)和[已发表论文](https://beibeihk.github.io/myblog/research/)分别整理。以下学术信息已按 2026 年 9 月 23 日版简历核对。
+
+双鱼男，INFP。博客里仍留着我喜欢的湖边夜景、旧头像和那句“摛门不安横，无复相关意。”
 
 | 研究身份 | 当前信息 |
 |---|---|
@@ -264,8 +268,8 @@
   <strong>Open to faculty opportunities in public finance, economics, management and interdisciplinary AI research.</strong><br>
   <a href="mailto:huangkun123huang@163.com">Email</a> ·
   <a href="https://beibeihk.github.io/myblog/resume/">Academic CV</a> ·
-  <a href="https://beibeihk.github.io/myblog/">Research Blog</a><br>
-  <sub>Last updated: 2026-09-23</sub>
+  <a href="https://beibeihk.github.io/myblog/">Personal Blog</a><br>
+  <sub>Last checked against academic CV: 2026-09-27</sub>
 </p>
 
 <p align="center">
